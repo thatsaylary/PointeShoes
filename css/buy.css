@@ -13,7 +13,7 @@
 }
 ::-webkit-scrollbar { width: 0;}
 body {
-	background-image: url(/img/bg.jpg);
+	background-image: url(/PointeShoes/img/bg.jpg);
 	color: #469597;
 	overflow-x: hidden;
 }
@@ -23,23 +23,23 @@ a {
 }
 @font-face {
 	font-family: alumni-r;
-	src: url(/font/AlumniSansPinstripe-Regular.ttf);
+	src: url(/PointeShoes/font/AlumniSansPinstripe-Regular.ttf);
 }
 @font-face {
 	font-family: alumni-i;
-	src: url(/font/AlumniSansPinstripe-Italic.ttf);
+	src: url(/PointeShoes/font/AlumniSansPinstripe-Italic.ttf);
 }
 @font-face {
 	font-family: MN-B;
-	src: url(/font/MontserratAlternates-Bold.ttf);
+	src: url(/PointeShoes/font/MontserratAlternates-Bold.ttf);
 }
 @font-face {
 	font-family: MN-Bi;
-	src: url(/font/MontserratAlternates-BoldItalic.ttf)
+	src: url(/PointeShoes/font/MontserratAlternates-BoldItalic.ttf)
 }
 @font-face {
 	font-family: MN-R;
-	src: url(/font/MontserratAlternates-Regular.ttf);
+	src: url(/PointeShoes/font/MontserratAlternates-Regular.ttf);
 }
 
 /* TOP */
@@ -55,7 +55,7 @@ a {
 
 .rectangle {
 	position: absolute;
-	background-image: url(img/topbg.jpg);
+	background-image: url(/PointeShoes/img/topbg.jpg);
 	width: 100%;
 	height: calc(var(--index) * 4.5);
 	filter: drop-shadow(0 0 10px black);
@@ -279,7 +279,7 @@ a {
 
 /* FOOTER */
 .rectangle_footer {
-	background-image: url(/img/topbg.jpg);
+	background-image: url(/PointeShoes/img/topbg.jpg);
 	position: absolute;
 	top: 60vw;
 	width: 100%;
