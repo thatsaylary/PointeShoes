@@ -13,7 +13,7 @@
 }
 ::-webkit-scrollbar { width: 0;}
 body {
-	background-image: url(/PointeShoes/img/bg.jpg);
+	background-image: url(img/bg.jpg);
 	color: #469597;
 	overflow-x: hidden;
 }
