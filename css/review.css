@@ -365,3 +365,10 @@ a {
 	color: #086b5f;
 	scale: 1.1;
 }
+.Video {
+	position: absolute;
+	top: 10vw;
+	left: 34vw;
+	filter: drop-shadow(0 0 10px black);
+	width: calc(var(--index) * 23);
+}
